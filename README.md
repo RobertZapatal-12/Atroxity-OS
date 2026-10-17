@@ -2,12 +2,13 @@
 - git
 https://education.github.com/git-cheat-sheet-education.pdf
 
-- C/C++ Fundamentos 
-https://www.youtube.com/watch?v=D7lEnQeK-CQ&list=PL7yh-TELLS1HSmBcqYk9LhPYSWp31FWH2
+- C/C++ Fundamentos
+  
+  https://www.youtube.com/watch?v=D7lEnQeK-CQ&list=PL7yh-TELLS1HSmBcqYk9LhPYSWp31FWH2
 
-https://www.learncpp.com/
+  https://www.learncpp.com/
 
-https://www.youtube.com/watch?v=2fSBLH-ISaE&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE
+  https://www.youtube.com/watch?v=2fSBLH-ISaE&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE
 
 - Lo que debes saber sobre memoria
 https://docs.google.com/spreadsheets/d/145RvpkXPHngCk-VL-F5otTAlWMJ04OhPl2zks7_HwRI/edit?gid=0#gid=0
