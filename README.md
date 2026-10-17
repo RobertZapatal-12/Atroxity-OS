@@ -17,7 +17,7 @@ https://dokumen.pub/operating-systems-three-easy-pieces.html
 Esta estructura simplificada esta sujeta a cambios.
 
 ```text
-myos/
+Atroxity-OS/
 ├── kernel/
 │   ├── arch/
 │   │   └── i386/
