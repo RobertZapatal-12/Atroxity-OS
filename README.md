@@ -4,7 +4,9 @@ https://education.github.com/git-cheat-sheet-education.pdf
 
 - C/C++ Fundamentos 
 https://www.youtube.com/watch?v=D7lEnQeK-CQ&list=PL7yh-TELLS1HSmBcqYk9LhPYSWp31FWH2
+
 https://www.learncpp.com/
+
 https://www.youtube.com/watch?v=2fSBLH-ISaE&list=PL7yh-TELLS1GafZOVHhCPaCQUt8HrfCZE
 
 - Lo que debes saber sobre memoria
