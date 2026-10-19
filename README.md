@@ -26,12 +26,18 @@ Atroxity-OS/
 │   │   └── i386/
 │   │       └── boot.s
 │   ├── kernel.cpp
+│   ├── terminal.c
 │   └── linker.ld
 ├── include/
 │   └── kernel/
-│       └── kernel.h
+│       ├── kernel.h
+│       └── terminal.h
 ├── Makefile
-└── iso/
+├── iso/
+│   └── boot/
+│       └── grub/
+│           └── grub.cfg
+└── README.md
 ```
 
 ## Requisitos previos
