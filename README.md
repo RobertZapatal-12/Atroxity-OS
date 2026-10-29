@@ -16,6 +16,10 @@ https://docs.google.com/spreadsheets/d/145RvpkXPHngCk-VL-F5otTAlWMJ04OhPl2zks7_H
 - OS 
 https://dokumen.pub/operating-systems-three-easy-pieces.html
 
+- Arquitectura computacional.
+
+https://alg.manifoldapp.org/projects/computer-organization?utm_source=chatgpt.com
+
 ## Estructura inicial del proyecto
 Esta estructura simplificada esta sujeta a cambios.
 
